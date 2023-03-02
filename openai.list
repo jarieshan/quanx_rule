@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,ai.com
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,ai.com
